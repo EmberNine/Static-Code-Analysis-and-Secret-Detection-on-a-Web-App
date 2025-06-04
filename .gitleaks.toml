@@ -1,0 +1,3 @@
+[allowlist]
+description = "Allowed secrets for testing"
+regexes = ['dummy_secret']
